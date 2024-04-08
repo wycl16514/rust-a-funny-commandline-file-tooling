@@ -1,1 +1,0 @@
-# rust-a-funny-commandline-file-tooling
